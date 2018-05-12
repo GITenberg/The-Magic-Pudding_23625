@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1588
     wikipedia: http://en.wikipedia.org/wiki/Norman_Lindsay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23625#The-Magic-Pudding
 gutenberg_bookshelf:
 - Australia
 - Children's Fiction
