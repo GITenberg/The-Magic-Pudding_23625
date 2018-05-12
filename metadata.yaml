@@ -1,0 +1,34 @@
+_repo: The-Magic-Pudding_23625
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lindsay, Norman
+    birthdate: 1879
+    deathdate: 1969
+    gutenberg_agent_id: '1588'
+    url: http://www.gutenberg.org/2009/agents/1588
+    wikipedia: http://en.wikipedia.org/wiki/Norman_Lindsay
+description: ''
+gutenberg_bookshelf:
+- Australia
+- Children's Fiction
+gutenberg_issued: '2007-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+- !lcsh 'Humorous stories'
+- !lcsh 'Puddings -- Juvenile fiction'
+title: The Magic Pudding
+url: http://www.gutenberg.org/ebooks/23625
